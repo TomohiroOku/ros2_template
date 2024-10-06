@@ -5,6 +5,7 @@
         }
     ],
     "settings": {
-        "ros.distro": "jazzy"
+        "ros.distro": "jazzy",
+        "cmake.ignoreCMakeListsMissing": true
     }
 }
